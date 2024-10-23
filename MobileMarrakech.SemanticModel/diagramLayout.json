@@ -1,0 +1,670 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 2244.2857888456761,
+        "y": 54562.293245331763
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 229.75352932245312,
+            "y": 109172.97302129641
+          },
+          "nodeIndex": "Indice",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 552.92277676906031,
+            "y": 108908.30217022877
+          },
+          "nodeIndex": "CAmoyMed",
+          "nodeLineageTag": "4b75ca88-cda1-4374-9e51-108806972d75",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 921.8904189667054,
+            "y": 108624.07798671538
+          },
+          "nodeIndex": "BlocsJ",
+          "nodeLineageTag": "2893d549-697e-40d6-92b4-8c59dcabeccc",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 313.89591291058582,
+            "y": 108502.17722413193
+          },
+          "nodeIndex": "ExterneDetails",
+          "nodeLineageTag": "506fbcd8-26e6-420f-a1e5-4ba32ec862c5",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1258.7739183645554,
+            "y": 108573.75945449564
+          },
+          "nodeIndex": "Bloc_H",
+          "nodeLineageTag": "abd2a214-6132-47b1-8741-7dd433e2dd9b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 108335.13744635982
+          },
+          "nodeIndex": "Vtendance",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 108101.11317981017
+          },
+          "nodeIndex": "VTracabilité",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 107851.83972193656
+          },
+          "nodeIndex": "VCa_Realisé",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 107472.06019742554
+          },
+          "nodeIndex": "Vhospitalisé",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 107107.96230844609
+          },
+          "nodeIndex": "VPatient",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 106588.9195383389
+          },
+          "nodeIndex": "Vurgence",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 106038.85229598684
+          },
+          "nodeIndex": "VHopitalJour",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 105311.024361108
+          },
+          "nodeIndex": "VDetails_CA_Facture",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 730.98976930792378,
+            "y": 103471.37788645452
+          },
+          "nodeIndex": "Vconsommation_M",
+          "size": {
+            "height": 366.90064965876809,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 1014.9897693079238,
+            "y": 103495.37788645452
+          },
+          "nodeIndex": "Vtop5_Dep",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 102223.73997090122
+          },
+          "nodeIndex": "VCompta",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 96729.977632612223
+          },
+          "nodeIndex": "VMasse_Salariale_CA",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 94098.770762226923
+          },
+          "nodeIndex": "Alertes",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 77301.59026451112
+          },
+          "nodeIndex": "Requête1",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 1323.9757472903245,
+            "y": 65664.6590824603
+          },
+          "nodeIndex": "VDettes",
+          "nodeLineageTag": "d7666063-d744-4bcc-a78b-80020659d4a2",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 56384.81334670596
+          },
+          "nodeIndex": "VFacturation",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 873.52296890671983,
+            "y": 45304.6467478095
+          },
+          "nodeIndex": "V_Marge",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "recouvrement",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 1447.7,
+            "y": 0
+          },
+          "nodeIndex": "reporting PEC_Expedition",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 1731.7,
+            "y": 54624.877123380516
+          },
+          "nodeIndex": "VhospitaliseJour",
+          "nodeLineageTag": "909b0f00-eb02-452e-8579-cc5ef1eadcae",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2015.7,
+            "y": 54648.877123380516
+          },
+          "nodeIndex": "v_occupation_bloc",
+          "nodeLineageTag": "ca8c26ae-03d0-4611-9327-26264ad01be1",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2299.7,
+            "y": 54660.877123380516
+          },
+          "nodeIndex": "Mesure_BlockHeure",
+          "nodeLineageTag": "0883fd75-5c39-4415-9748-c23c0660eab4",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2583.7,
+            "y": 54562.877123380516
+          },
+          "nodeIndex": "BlocsHeure",
+          "nodeLineageTag": "668795fe-8cfb-443d-a97a-2e57b55b4e57",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2867.7,
+            "y": 54538.4865106482
+          },
+          "nodeIndex": "VRecouvrement",
+          "nodeLineageTag": "69909718-20fa-4368-b8f8-0b87e993487a",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3151.7,
+            "y": 54574.4865106482
+          },
+          "nodeIndex": "VHopital_Jour",
+          "nodeLineageTag": "8c4f7ed5-3431-4b04-8a4e-a74ca51db8d3",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3435.7,
+            "y": 54598.4865106482
+          },
+          "nodeIndex": "Mesure Achat_Stock",
+          "nodeLineageTag": "c1775ce9-b10d-4de3-aba9-a2929a021b47",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2989.1427585996971,
+            "y": 55025.5573300482
+          },
+          "nodeIndex": "V_achat_Stock",
+          "nodeLineageTag": "545d6142-f57c-4a55-a4c5-50c4c2daf13c",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3719.7,
+            "y": 54550.4865106482
+          },
+          "nodeIndex": "Reporting Admission_annuler",
+          "nodeLineageTag": "9375c288-ae1a-4129-8668-91e1541e0cea",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4003.7,
+            "y": 54574.4865106482
+          },
+          "nodeIndex": "Reporting Dossier_Payant_cloturer_Non_Paye",
+          "nodeLineageTag": "14f6496a-927e-4f6b-a155-5ca7ca192797",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4287.7,
+            "y": 54502.4865106482
+          },
+          "nodeIndex": "Reporting Prestation_annule",
+          "nodeLineageTag": "0d6e286c-7b8f-4c1a-a426-041643adc006",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4571.7,
+            "y": 54514.4865106482
+          },
+          "nodeIndex": "Reporting Suppression_avance",
+          "nodeLineageTag": "054729e4-368e-4827-935c-0d4dc32d196a",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4855.7,
+            "y": 54586.4865106482
+          },
+          "nodeIndex": "VSTERILISATION",
+          "nodeLineageTag": "a69c5897-cc28-4e94-bd4b-b8606a9ae69d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5139.7,
+            "y": 54526.4865106482
+          },
+          "nodeIndex": "reporting cotisation",
+          "nodeLineageTag": "73446d79-3f1d-4ea4-a380-eeb3e7c37b31",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5423.7,
+            "y": 54514.4865106482
+          },
+          "nodeIndex": "reporting effectif",
+          "nodeLineageTag": "50b0bb87-d549-47c9-bc6e-e3347a4a51ec",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5707.7,
+            "y": 54500.4865106482
+          },
+          "nodeIndex": "reporting heure_supp",
+          "nodeLineageTag": "1edbf55e-122e-4e4c-889d-e22b75937a63",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5991.7,
+            "y": 54500.4865106482
+          },
+          "nodeIndex": "reporting salaire",
+          "nodeLineageTag": "091a9515-c133-4d42-8e49-f91305707bdf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6275.7,
+            "y": 54500.4865106482
+          },
+          "nodeIndex": "reporting prime",
+          "nodeLineageTag": "a5273ada-412c-42a3-ad17-b258c478c9cf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6559.7,
+            "y": 54550.4865106482
+          },
+          "nodeIndex": "Dates",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "ClFacture",
+          "nodeLineageTag": "2a2d82f9-f59a-463a-8bab-3c143efc63ba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "Mesure",
+          "nodeLineageTag": "fcf35fcc-5560-4f32-a6d8-ea77df4a2854",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "service_paie",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 62.336089590424237,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 100
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 668,
+            "y": 137
+          },
+          "nodeIndex": "reporting effectif",
+          "nodeLineageTag": "50b0bb87-d549-47c9-bc6e-e3347a4a51ec",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 337,
+            "y": 177
+          },
+          "nodeIndex": "Dates",
+          "nodeLineageTag": "c09034ce-e6f4-47ae-8b8f-f7806be18045",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6,
+            "y": 360
+          },
+          "nodeIndex": "reporting salaire",
+          "nodeLineageTag": "091a9515-c133-4d42-8e49-f91305707bdf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 478,
+            "y": 542
+          },
+          "nodeIndex": "ClFacture",
+          "nodeLineageTag": "2a2d82f9-f59a-463a-8bab-3c143efc63ba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19,
+            "y": 109
+          },
+          "nodeIndex": "reporting cotisation",
+          "nodeLineageTag": "73446d79-3f1d-4ea4-a380-eeb3e7c37b31",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Layout 1",
+  "defaultDiagram": "All tables"
+}
