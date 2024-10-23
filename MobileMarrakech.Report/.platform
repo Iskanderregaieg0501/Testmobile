@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "MobileMarrakech"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1761f7da-d7e0-49de-a517-365d028f071b"
+  }
+}
